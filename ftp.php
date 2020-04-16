@@ -10,8 +10,6 @@
  * 6) 删除;				delete_dir/delete_file
  * 7) 上传;				upload
  * 8) 下载				download
- *
- * @author quanshuidingdang
  */
 class Ftp {
 
